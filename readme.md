@@ -1,4 +1,4 @@
-Hi This is a CRUD API app.
+Hi This is a CRUD API TODO app.
 We can: 
   * Create a Todo
   * Read a Todo
